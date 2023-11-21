@@ -1,0 +1,9 @@
+[submodule "fahim/network/utils/modbusgw"]
+	path = fahim/network/utils/modbusgw
+	url = https://github.com/mohyfahim/modbusgw.git
+[submodule "fahim/network/utils/modbusgwbcknd"]
+	path = fahim/network/utils/modbusgwbcknd
+	url = https://github.com/mohyfahim/modbusgwbcknd.git
+[submodule "fahim/network/utils/modbusgwfrnt"]
+	path = fahim/network/utils/modbusgwfrnt
+	url = https://github.com/mohyfahim/modbusgwfrnt.git
